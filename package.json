@@ -61,7 +61,7 @@
     "execa": "^7.0.0",
     "expect-type": "^0.15.0",
     "globby": "^13.1.3",
-    "jiti": "^1.17.1",
+    "jiti": "^1.17.2",
     "markdownlint-cli": "^0.33.0",
     "nuxi": "workspace:*",
     "nuxt": "workspace:*",
